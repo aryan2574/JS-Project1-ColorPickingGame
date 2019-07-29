@@ -7,7 +7,7 @@
 
 **In the *Easy* mode you have to guess the correct color among 3 different colors and in the *Hard* mode there wil be 6 different colors.** 
 
-## Screenthots
+## Screenshots
 ![screenshot1](doc/Screenshot1.png)
 ![screenshot2](doc/Screenshot2.png)
 ![screenshot3](doc/Screenshot3.png)
